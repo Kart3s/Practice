@@ -7,3 +7,5 @@ while true; do
 		sleep .5
 	done
 done
+
+#credit to ruanyf:simple-bash-script
